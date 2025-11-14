@@ -16,7 +16,8 @@ export class AppComponent {
   formData = {
     name: '',
     family: '',
-    phoneNumber: ''
+    phoneNumber: '',
+    age: '' // Added age field
   };
   
   // JSON output
